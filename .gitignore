@@ -1,0 +1,5 @@
+# Sensetive info
+.env
+/venv
+
+video_titles.txt
