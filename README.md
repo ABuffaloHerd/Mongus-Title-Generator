@@ -4,7 +4,7 @@ title: Among Us Video Title Generator
 emoji: 🗿
 colorFrom: red
 colorTo: black
-sdk: 3.10
+sdk: gradio
 app_file: app.py
 pinned: false
 ---
