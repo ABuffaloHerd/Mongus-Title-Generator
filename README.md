@@ -6,3 +6,14 @@ Among us video title generator. Or any video title generator tbh it really depen
 2. ``pip install requirements.txt``
 3. ???
 4. 😂😂😂😂
+
+# Hugging Face Config
+---
+title: Among Us Video Title Generator
+emoji: 🗿
+colorFrom: red
+colorTo: black
+sdk: 3.10
+app_file: app.py
+pinned: false
+---
